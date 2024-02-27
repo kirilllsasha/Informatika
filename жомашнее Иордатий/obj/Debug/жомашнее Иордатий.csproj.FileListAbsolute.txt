@@ -1,0 +1,7 @@
+D:\visual\жомашнее Иордатий\bin\Debug\жомашнее Иордатий.exe.config
+D:\visual\жомашнее Иордатий\bin\Debug\жомашнее Иордатий.exe
+D:\visual\жомашнее Иордатий\bin\Debug\жомашнее Иордатий.pdb
+D:\visual\жомашнее Иордатий\obj\Debug\жомашнее Иордатий.csproj.AssemblyReference.cache
+D:\visual\жомашнее Иордатий\obj\Debug\жомашнее Иордатий.csproj.CoreCompileInputs.cache
+D:\visual\жомашнее Иордатий\obj\Debug\жомашнее Иордатий.exe
+D:\visual\жомашнее Иордатий\obj\Debug\жомашнее Иордатий.pdb
